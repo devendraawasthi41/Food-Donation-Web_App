@@ -91,14 +91,7 @@ For running the application:
 6. Open browser and go to url: http://localhost:8000
 7. You need to first signup and then login to run the application.
 
-## Useful Links
-- Nodejs download: https://nodejs.org/
-- VS Code download: https://code.visualstudio.com/
-- Tutorials: https://www.w3schools.com/
-- npmjs docs: https://docs.npmjs.com/
-- Expressjs docs: https://expressjs.com/
-- Bootstrap docs: https://getbootstrap.com/docs/5.1/getting-started/introduction/
-- Mongoosejs docs: https://mongoosejs.com/docs/index.html
+x
 - Mongodb atlas: https://www.mongodb.com/cloud/atlas/register
 - Mongodb docs: https://docs.mongodb.com/manual/introduction/
 - Nodemailer docs: https://nodemailer.com/
